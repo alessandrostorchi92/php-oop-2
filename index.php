@@ -73,19 +73,18 @@ $productList = [
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Creare uno shop online avente più classi collegate tramite " extends".>
+    <meta name="description" content="Creare uno shop online avente più classi collegate tramite extends>
+    
     <title>PHP OOP 2</title>
 
     <!-- Framework Bootstrap css  -->
-
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 
-    <!-- Font Awesome CDN  -->
 
+    <!-- Font Awesome CDN  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
     <!-- Custom css  -->
-
     <link rel="stylesheet" href="./css/style.css">
 
 </head>
